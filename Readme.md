@@ -67,8 +67,8 @@ A deep learning-based web application that detects whether a news article is **F
 ## Installation
 
 ```bash
-git clone https://github.com/AyushGit0406/fake-news-detector.git
-cd fake-news-detector
+git clone https://github.com/AyushGit0406/Fake_News_Detector.git
+cd Fake_News_Detector
 pip install -r requirements.txt
 ```
 
